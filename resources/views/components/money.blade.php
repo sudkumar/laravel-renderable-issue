@@ -1,0 +1,3 @@
+@props(['money'])
+
+{{ gettype($money) }}
