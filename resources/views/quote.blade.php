@@ -1,1 +1,1 @@
-<x-money :money="$money" />
+{{ gettype($money) }}
