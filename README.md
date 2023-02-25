@@ -27,7 +27,7 @@ This is a reproduction repo to see it in action.
 
 ## Testing 
 
-Checkout the [Test File](/tests/Feature/RenderablePropTest) for more info.
+Checkout the [Test File](/tests/Feature/RenderablePropTest.php) for more info.
 
 ```
 git clone <repo> && cd <dir>
